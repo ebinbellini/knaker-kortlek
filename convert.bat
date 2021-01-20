@@ -2,4 +2,4 @@ FOR %%A IN (clovers/*.svg) DO "C:\Program Files\Inkscape\bin\inkscape.exe" clove
 FOR %%A IN (spades/*.svg) DO "C:\Program Files\Inkscape\bin\inkscape.exe" spades/%%A --export-type="png"
 FOR %%A IN (diamonds/*.svg) DO "C:\Program Files\Inkscape\bin\inkscape.exe" diamonds/%%A --export-type="png"
 FOR %%A IN (heart/*.svg) DO "C:\Program Files\Inkscape\bin\inkscape.exe" heart/%%A --export-type="png"
-FOR %%A IN (*.svg) DO "C:\Program Files\Inkscape\bin\inkscape.exe" %%A --export-type="png"
+FOR %%A IN (baksida/*.svg) DO "C:\Program Files\Inkscape\bin\inkscape.exe" baksida/%%A --export-type="png"

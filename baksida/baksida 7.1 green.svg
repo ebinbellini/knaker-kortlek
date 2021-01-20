@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="baksida 7.1 dark.svg"
+   sodipodi:docname="baksida 7.1 green.svg"
    inkscape:export-filename="C:\Users\edvbje1\Documents\Design\knaker-kortlek\baksida\baksida 7.1 grön.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -55,7 +55,7 @@
       <stop
          id="stop1460"
          offset="1"
-         style="stop-color:#2d694a;stop-opacity:1" />
+         style="stop-color:#296043;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -964,9 +964,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25091626"
-     inkscape:cx="1067.465"
-     inkscape:cy="1197.5892"
+     inkscape:zoom="0.35484918"
+     inkscape:cx="1049.4208"
+     inkscape:cy="484.01863"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
